@@ -84,6 +84,11 @@ body {
   border-color: #e7ad52;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
+#no-border {
+  background: rgba(0, 0, 0, 1);
+  border: 0px;
+}
+
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
